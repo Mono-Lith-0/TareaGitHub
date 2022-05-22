@@ -23,6 +23,8 @@ public class LorenzoMarti {
         
         Clase1.Metodo2();
         Clase2.Metodo2();
+        
+        // Izan Lorenzo Martí
     }
     
 }
