@@ -20,6 +20,9 @@ public class LorenzoMarti {
         
         Clase1.Metodo3();
         Clase2.Metodo3();
+        
+        Clase1.Metodo2();
+        Clase2.Metodo2();
     }
     
 }
