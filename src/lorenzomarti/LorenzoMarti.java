@@ -17,6 +17,9 @@ public class LorenzoMarti {
         // TODO code application logic here
         Clase1.Metodo1();
         Clase2.Metodo1();
+        
+        Clase1.Metodo3();
+        Clase2.Metodo3();
     }
     
 }

@@ -13,4 +13,8 @@ public class Clase2 {
     public static void Metodo1() {
         System.out.println("Metodo1 de la Clase2");
     }
+    
+    public static void Metodo3() {
+        System.out.println("Metodo3 de la Clase2");
+    }
 }
