@@ -10,4 +10,7 @@ package lorenzomarti;
  */
 public class Clase1 {
     
+    public static void Metodo1() {
+        System.out.println("Metodo1 de la Clase1");
+    }
 }

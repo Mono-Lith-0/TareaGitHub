@@ -15,6 +15,8 @@ public class LorenzoMarti {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Clase1.Metodo1();
+        Clase2.Metodo1();
     }
     
 }
